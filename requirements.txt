@@ -1,3 +1,0 @@
-SpeechRecognition
-Pygame
-PyAudio
